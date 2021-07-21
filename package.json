@@ -1,0 +1,23 @@
+{
+  "name": "discord-button-menus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "buttons",
+    "menus"
+  ],
+  "author": "da-the-dev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.02f55f0.1626782659"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
