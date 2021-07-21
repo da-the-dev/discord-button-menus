@@ -1,11 +1,10 @@
 {
   "name": "discord-button-menus",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "discord.js module that allows you to create embed-powered Discord menus ",
   "main": "lib/index.js",
   "scripts": {
-    "build": "tsc -p .",
-    "publish": "npm publish --access public"
+    "build": "tsc -p ."
   },
   "keywords": [
     "discord",
@@ -13,7 +12,7 @@
     "buttons",
     "menus"
   ],
-  "author": "da-the-dev",
+  "author": "da_dev",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^13.0.0-dev.02f55f0.1626782659"
